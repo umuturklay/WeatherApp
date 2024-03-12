@@ -1,0 +1,1 @@
+{"city": "Washington DC", "use_fahrenheit": false, "use_mph": false}
